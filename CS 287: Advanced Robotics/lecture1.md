@@ -2,7 +2,7 @@
 Probability Review, Bayes Filters
 
 
-Probability: Motivation
+## Probability: Motivation
 
 Why probability in robotics?
 
@@ -12,7 +12,9 @@ Why probability in robotics?
 
 Review of Probability Theory. (Only pick some of them)
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+
 \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
 <p>
 \begin{align}\notag 
 \dot{x}&=\mathbf{A}x+\mathbf{B}u\\
