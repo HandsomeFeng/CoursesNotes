@@ -6,7 +6,7 @@ Probability Review, Bayes Filters
 
 Why probability in robotics?
 
-1.Environment is unknown,noisy.\t\t--probability distribution over possible status
+1.Environment is unknown,noisy. \t\t--probability distribution over possible status
 
 2.Dynamics is stochastic.         --good control policy for stochastic dynamics
 
